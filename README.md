@@ -1,3 +1,3 @@
 Olá! 
 
-Arquivos em Excel disponíveis em "Apoio".
+Arquivos em Excel e PPT disponíveis em "Apoio".
